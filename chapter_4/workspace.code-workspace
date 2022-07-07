@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../chapter_2"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "JS-Ninja-Udemy"
+  }
+}
